@@ -1,0 +1,12 @@
+{
+    "name": "vendor/api",
+    "authors": [
+        {
+            "name": "Angga Eka Purnama",
+            "email": "anggaekapurnama4@gmail.com"
+        }
+    ],
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1"
+    }
+}
